@@ -1,3 +1,2 @@
-# Gromacs
-#This is a test
-#PHD=WASTE OF TIME
+
+Gromacs-5.0
